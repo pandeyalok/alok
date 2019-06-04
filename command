@@ -1,3 +1,4 @@
+Hygieia command
 java -jar api.jar --spring.config.location=/opt/Hygieia/Hygieia-master/api/api.properties -Djasypt.encryptor.password=hygieiasecret
 
 java -jar jira-feature-collector.jar --spring.config.name=feature --spring.config.location=/opt/Hygieia/propertyFile/jira.properties
